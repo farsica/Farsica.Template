@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="logs\**" />
+    <Content Remove="logs\**" />
+    <EmbeddedResource Remove="logs\**" />
+    <None Remove="logs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="bundleconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="bundleconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bundleconfig.json" />
+    <None Include="Pages\AboutUs\AboutUs.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<PackageReference Include="Farsica.Framework" Version="1.5.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ApplicationCore\Common\Farsica.Template.Common.csproj" />
+    <ProjectReference Include="..\..\ApplicationCore\Entity\Farsica.Template.Entity.csproj" />
+    <ProjectReference Include="..\..\ApplicationCore\Resource\Farsica.Template.Resource.csproj" />
+    <ProjectReference Include="..\..\ApplicationCore\Shared\Farsica.Template.Shared.csproj" />
+    <ProjectReference Include="..\..\Build\Build.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+  </ItemGroup>
+
+</Project>

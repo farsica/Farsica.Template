@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.5.1",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "library": "font-awesome@5.12.1",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "library": "twitter-bootstrap@4.5.3",
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "jquery-validate@1.19.2",
+      "destination": "wwwroot/lib/jquery-validation/"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@3.2.11",
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
+    },
+    {
+      "library": "jQuery-slimScroll@1.3.8",
+      "destination": "wwwroot/lib/jquery-slimscroll/"
+    },
+    {
+      "library": "Base64@1.1.0",
+      "destination": "wwwroot/lib/base64/"
+    },
+    {
+      "library": "bootbox.js@5.4.1",
+      "destination": "wwwroot/lib/bootbox/"
+    },
+    {
+      "library": "select2@4.0.13",
+      "destination": "wwwroot/lib/select2/"
+    },
+    {
+      "library": "wysihtml@0.6.0-beta1",
+      "destination": "wwwroot/lib/wysihtml/"
+    },
+    {
+      "library": "bootstrap-colorpicker@3.2.0",
+      "destination": "wwwroot/lib/bootstrap-colorpicker/"
+    }
+  ]
+}

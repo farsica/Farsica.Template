@@ -1,0 +1,1059 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Sat Feb 16 12:03:14 2019
+ By Aleksey,,,
+Copyright (c) 2015 by www.fontiran.com (Moslem Ebrahimi). All rights reserved.
+</metadata>
+<defs>
+<font id="IRANSans" horiz-adv-x="761" >
+  <font-face 
+    font-family="IRANSans"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="2 4 5 3 5 2 1 2 2 3"
+    ascent="1638"
+    descent="-410"
+    x-height="971"
+    cap-height="971"
+    bbox="109 464 616 971"
+    underline-thickness="102"
+    underline-position="-613"
+    unicode-range="U+001D-FEFC"
+  />
+<missing-glyph 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFDF2" unicode="&#xfedf;&#xfee0;&#x651;&#x6c1;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFDFC" unicode="&#x631;&#xfbfe;&#xfe8e;&#x644;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF5" unicode="&#xfedf;&#xfe82;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF6" unicode="&#xfee0;&#xfe82;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF7" unicode="&#xfedf;&#xfe84;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF8" unicode="&#xfee0;&#xfe84;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF9" unicode="&#xfedf;&#xfe88;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEFA" unicode="&#xfee0;&#xfe88;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEFB" unicode="&#xfedf;&#xfe8e;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEFC" unicode="&#xfee0;&#xfe8e;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEDF_uniFB51.rlig" unicode="&#xfedf;&#xfb51;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEE0_uniFB51.rlig" unicode="&#xfee0;&#xfb51;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE97_uniFEEE_uniFEE3_uniFE8E_uni0646.liga" unicode="&#xfe97;&#xfeee;&#xfee3;&#xfe8e;&#x646;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0621" unicode="&#x621;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0622" unicode="&#x622;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0623" unicode="&#x623;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0624" unicode="&#x624;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0625" unicode="&#x625;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0626" unicode="&#x626;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0627" unicode="&#x627;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0628" unicode="&#x628;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0629" unicode="&#x629;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni062A" unicode="&#x62a;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni062B" unicode="&#x62b;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni062C" unicode="&#x62c;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni062D" unicode="&#x62d;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni062E" unicode="&#x62e;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni062F" unicode="&#x62f;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0630" unicode="&#x630;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0631" unicode="&#x631;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0632" unicode="&#x632;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0633" unicode="&#x633;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0634" unicode="&#x634;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0635" unicode="&#x635;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0636" unicode="&#x636;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0637" unicode="&#x637;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0638" unicode="&#x638;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0639" unicode="&#x639;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni063A" unicode="&#x63a;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0641" unicode="&#x641;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0642" unicode="&#x642;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0643" unicode="&#x643;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0644" unicode="&#x644;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0645" unicode="&#x645;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0646" unicode="&#x646;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0647" unicode="&#x647;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0648" unicode="&#x648;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0649" unicode="&#x649;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064A" unicode="&#x64a;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066E.init" unicode="&#x66e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066E.medi" unicode="&#x66e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066E.fina" unicode="&#x66e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066F.init" unicode="&#x66f;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066F.medi" unicode="&#x66f;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066F.fina" unicode="&#x66f;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0671" unicode="&#x671;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0679" unicode="&#x679;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni067E" unicode="&#x67e;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0686" unicode="&#x686;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0688" unicode="&#x688;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0691" unicode="&#x691;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0698" unicode="&#x698;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06A9" unicode="&#x6a9;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06AA.init" unicode="&#x6aa;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06AA.medi" unicode="&#x6aa;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06AA.fina" unicode="&#x6aa;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06AF" unicode="&#x6af;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06BA" unicode="&#x6ba;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06BE" unicode="&#x6be;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06C0" unicode="&#x6c0;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06C1" unicode="&#x6c1;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06CC" unicode="&#x6cc;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06D2" unicode="&#x6d2;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06D3" unicode="&#x6d3;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB51" unicode="&#x671;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB57" unicode="&#x67e;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB58" unicode="&#x67e;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB59" unicode="&#x67e;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB67" unicode="&#x679;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB68" unicode="&#x679;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB69" unicode="&#x679;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB6A" unicode="&#x6a4;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB6B" unicode="&#x6a4;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB6C" unicode="&#x6a4;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB6D" unicode="&#x6a4;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB7B" unicode="&#x686;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB7C" unicode="&#x686;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB7D" unicode="&#x686;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB89" unicode="&#x688;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB8B" unicode="&#x698;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB8D" unicode="&#x691;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB8F" unicode="&#x6a9;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB90" unicode="&#x6a9;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB91" unicode="&#x6a9;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB93" unicode="&#x6af;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB94" unicode="&#x6af;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB95" unicode="&#x6af;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFB9F" unicode="&#x6ba;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBA5" unicode="&#x6c0;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBA6" unicode="&#x6c1;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBA8" unicode="&#x6c1;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBA9" unicode="&#x6c1;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBAB" unicode="&#x6be;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBAC" unicode="&#x6be;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBAD" unicode="&#x6be;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBAF" unicode="&#x6d2;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBB1" unicode="&#x6d3;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBE8" unicode="&#x649;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBE9" unicode="&#x649;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBFD" unicode="&#x6cc;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBFE" unicode="&#x6cc;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFBFF" unicode="&#x6cc;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFC5E" unicode="&#xfc5e;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFC5F" unicode="&#xfc5f;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFC60" unicode="&#xfc60;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFC61" unicode="&#xfc61;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFC62" unicode="&#xfc62;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFC63" unicode="&#xfc63;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE70" unicode="&#xfe70;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE72" unicode="&#xfe72;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE74" unicode="&#xfe74;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE76" unicode="&#xfe76;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE78" unicode="&#xfe78;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE7A" unicode="&#xfe7a;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE7C" unicode="&#xfe7c;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE7E" unicode="&#xfe7e;" arabic-form="isolated" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE82" unicode="&#x622;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE84" unicode="&#x623;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE86" unicode="&#x624;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE88" unicode="&#x625;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE8A" unicode="&#x626;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE8B" unicode="&#x626;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE8C" unicode="&#x626;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE8E" unicode="&#x627;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE90" unicode="&#x628;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE91" unicode="&#x628;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE92" unicode="&#x628;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE94" unicode="&#x629;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE96" unicode="&#x62a;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE97" unicode="&#x62a;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE98" unicode="&#x62a;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE9A" unicode="&#x62b;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE9B" unicode="&#x62b;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE9C" unicode="&#x62b;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE9E" unicode="&#x62c;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFE9F" unicode="&#x62c;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEA0" unicode="&#x62c;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEA2" unicode="&#x62d;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEA3" unicode="&#x62d;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEA4" unicode="&#x62d;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEA6" unicode="&#x62e;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEA7" unicode="&#x62e;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEA8" unicode="&#x62e;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEAA" unicode="&#x62f;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEAC" unicode="&#x630;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEAE" unicode="&#x631;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEB0" unicode="&#x632;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEB2" unicode="&#x633;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEB3" unicode="&#x633;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEB4" unicode="&#x633;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEB6" unicode="&#x634;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEB7" unicode="&#x634;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEB8" unicode="&#x634;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEBA" unicode="&#x635;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEBB" unicode="&#x635;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEBC" unicode="&#x635;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEBE" unicode="&#x636;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEBF" unicode="&#x636;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEC0" unicode="&#x636;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEC2" unicode="&#x637;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEC3" unicode="&#x637;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEC4" unicode="&#x637;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEC6" unicode="&#x638;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEC7" unicode="&#x638;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEC8" unicode="&#x638;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFECA" unicode="&#x639;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFECB" unicode="&#x639;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFECC" unicode="&#x639;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFECE" unicode="&#x63a;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFECF" unicode="&#x63a;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFED0" unicode="&#x63a;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFED2" unicode="&#x641;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFED3" unicode="&#x641;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFED4" unicode="&#x641;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFED6" unicode="&#x642;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFED7" unicode="&#x642;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFED8" unicode="&#x642;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEDA" unicode="&#x643;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEDB" unicode="&#x643;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEDC" unicode="&#x643;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEDE" unicode="&#x644;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEDF" unicode="&#x644;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEE0" unicode="&#x644;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEE2" unicode="&#x645;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEE3" unicode="&#x645;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEE4" unicode="&#x645;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEE6" unicode="&#x646;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEE7" unicode="&#x646;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEE8" unicode="&#x646;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEEA" unicode="&#x647;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEEB" unicode="&#x647;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEEC" unicode="&#x647;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEEE" unicode="&#x648;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF0" unicode="&#x649;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF2" unicode="&#x64a;" arabic-form="final" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF3" unicode="&#x64a;" arabic-form="initial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFEF4" unicode="&#x64a;" arabic-form="medial" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name=".notdef" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="glyph2" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni001D" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni001D" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="space" unicode=" " 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="space" unicode="&#xa0;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="exclam" unicode="!" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="quotedbl" unicode="&#x22;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="numbersign" unicode="#" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="dollar" unicode="$" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="percent" unicode="%" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ampersand" unicode="&#x26;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="quotesingle" unicode="'" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="parenleft" unicode="(" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="parenright" unicode=")" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="asterisk" unicode="*" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="plus" unicode="+" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="comma" unicode="," 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="hyphen" unicode="-" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="period" unicode="." 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="slash" unicode="/" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="zero" unicode="0" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="one" unicode="1" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="two" unicode="2" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="three" unicode="3" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="four" unicode="4" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="five" unicode="5" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="six" unicode="6" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="seven" unicode="7" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="eight" unicode="8" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="nine" unicode="9" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="colon" unicode=":" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="semicolon" unicode=";" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="less" unicode="&#x3c;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="equal" unicode="=" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="greater" unicode="&#x3e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="question" unicode="?" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="at" unicode="@" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="A" unicode="A" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="B" unicode="B" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="C" unicode="C" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="D" unicode="D" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="E" unicode="E" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="F" unicode="F" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="G" unicode="G" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="H" unicode="H" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="I" unicode="I" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="J" unicode="J" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="K" unicode="K" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="L" unicode="L" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="M" unicode="M" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="N" unicode="N" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="O" unicode="O" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="P" unicode="P" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Q" unicode="Q" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="R" unicode="R" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="S" unicode="S" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="T" unicode="T" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="U" unicode="U" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="V" unicode="V" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="W" unicode="W" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="X" unicode="X" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Y" unicode="Y" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Z" unicode="Z" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="bracketleft" unicode="[" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="backslash" unicode="\" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="bracketright" unicode="]" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="asciicircum" unicode="^" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="underscore" unicode="_" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="grave" unicode="`" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="a" unicode="a" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="b" unicode="b" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="c" unicode="c" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="d" unicode="d" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="e" unicode="e" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="f" unicode="f" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="g" unicode="g" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="h" unicode="h" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="i" unicode="i" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="j" unicode="j" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="k" unicode="k" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="l" unicode="l" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="m" unicode="m" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="n" unicode="n" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="o" unicode="o" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="p" unicode="p" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="q" unicode="q" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="r" unicode="r" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="s" unicode="s" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="t" unicode="t" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="u" unicode="u" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="v" unicode="v" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="w" unicode="w" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="x" unicode="x" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="y" unicode="y" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="z" unicode="z" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="braceleft" unicode="{" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="bar" unicode="|" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="braceright" unicode="}" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="asciitilde" unicode="~" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="exclamdown" unicode="&#xa1;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="cent" unicode="&#xa2;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="sterling" unicode="&#xa3;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="currency" unicode="&#xa4;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="yen" unicode="&#xa5;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="brokenbar" unicode="&#xa6;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="section" unicode="&#xa7;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="dieresis" unicode="&#xa8;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="copyright" unicode="&#xa9;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ordfeminine" unicode="&#xaa;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="guillemotleft" unicode="&#xab;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="logicalnot" unicode="&#xac;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni00AD" unicode="&#xad;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="registered" unicode="&#xae;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="macron" unicode="&#xaf;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="degree" unicode="&#xb0;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="plusminus" unicode="&#xb1;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni00B2" unicode="&#xb2;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni00B3" unicode="&#xb3;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="acute" unicode="&#xb4;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="mu" unicode="&#xb5;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="paragraph" unicode="&#xb6;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="periodcentered" unicode="&#xb7;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="cedilla" unicode="&#xb8;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni00B9" unicode="&#xb9;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ordmasculine" unicode="&#xba;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="guillemotright" unicode="&#xbb;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="onequarter" unicode="&#xbc;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="onehalf" unicode="&#xbd;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="threequarters" unicode="&#xbe;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="questiondown" unicode="&#xbf;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Agrave" unicode="&#xc0;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Aacute" unicode="&#xc1;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Acircumflex" unicode="&#xc2;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Atilde" unicode="&#xc3;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Adieresis" unicode="&#xc4;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Aring" unicode="&#xc5;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="AE" unicode="&#xc6;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Ccedilla" unicode="&#xc7;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Egrave" unicode="&#xc8;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Eacute" unicode="&#xc9;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Ecircumflex" unicode="&#xca;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Edieresis" unicode="&#xcb;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Igrave" unicode="&#xcc;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Iacute" unicode="&#xcd;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Icircumflex" unicode="&#xce;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Idieresis" unicode="&#xcf;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Eth" unicode="&#xd0;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Ntilde" unicode="&#xd1;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Ograve" unicode="&#xd2;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Oacute" unicode="&#xd3;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Ocircumflex" unicode="&#xd4;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Otilde" unicode="&#xd5;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Odieresis" unicode="&#xd6;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="multiply" unicode="&#xd7;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Oslash" unicode="&#xd8;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Ugrave" unicode="&#xd9;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Uacute" unicode="&#xda;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Ucircumflex" unicode="&#xdb;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Udieresis" unicode="&#xdc;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Yacute" unicode="&#xdd;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Thorn" unicode="&#xde;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="germandbls" unicode="&#xdf;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="agrave" unicode="&#xe0;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="aacute" unicode="&#xe1;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="acircumflex" unicode="&#xe2;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="atilde" unicode="&#xe3;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="adieresis" unicode="&#xe4;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="aring" unicode="&#xe5;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ae" unicode="&#xe6;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ccedilla" unicode="&#xe7;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="egrave" unicode="&#xe8;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="eacute" unicode="&#xe9;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ecircumflex" unicode="&#xea;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="edieresis" unicode="&#xeb;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="igrave" unicode="&#xec;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="iacute" unicode="&#xed;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="icircumflex" unicode="&#xee;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="idieresis" unicode="&#xef;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="eth" unicode="&#xf0;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ntilde" unicode="&#xf1;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ograve" unicode="&#xf2;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="oacute" unicode="&#xf3;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ocircumflex" unicode="&#xf4;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="otilde" unicode="&#xf5;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="odieresis" unicode="&#xf6;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="divide" unicode="&#xf7;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="oslash" unicode="&#xf8;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ugrave" unicode="&#xf9;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uacute" unicode="&#xfa;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ucircumflex" unicode="&#xfb;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="udieresis" unicode="&#xfc;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="yacute" unicode="&#xfd;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="thorn" unicode="&#xfe;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ydieresis" unicode="&#xff;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="OE" unicode="&#x152;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="oe" unicode="&#x153;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Scaron" unicode="&#x160;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="scaron" unicode="&#x161;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Ydieresis" unicode="&#x178;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Zcaron" unicode="&#x17d;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="zcaron" unicode="&#x17e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="florin" unicode="&#x192;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="circumflex" unicode="&#x2c6;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="tilde" unicode="&#x2dc;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni060C" unicode="&#x60c;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0615" unicode="&#x615;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni061B" unicode="&#x61b;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni061F" unicode="&#x61f;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0640" unicode="&#x640;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064B" unicode="&#x64b;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064C" unicode="&#x64c;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064D" unicode="&#x64d;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064E" unicode="&#x64e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064F" unicode="&#x64f;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0650" unicode="&#x650;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0651" unicode="&#x651;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0652" unicode="&#x652;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0653" unicode="&#x653;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0654" unicode="&#x654;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0655" unicode="&#x655;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0656" unicode="&#x656;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0660" unicode="&#x660;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0661" unicode="&#x661;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0662" unicode="&#x662;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0663" unicode="&#x663;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0664" unicode="&#x664;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0665" unicode="&#x665;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0666" unicode="&#x666;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0667" unicode="&#x667;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0668" unicode="&#x668;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0669" unicode="&#x669;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066A" unicode="&#x66a;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066B" unicode="&#x66b;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066C" unicode="&#x66c;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066D" unicode="&#x66d;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066E" unicode="&#x66e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni066F" unicode="&#x66f;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0670" unicode="&#x670;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06AA" unicode="&#x6aa;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06C2" unicode="&#x6c2;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06C3" unicode="&#x6c3;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06D4" unicode="&#x6d4;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06D5" unicode="&#x6d5;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F0" unicode="&#x6f0;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F1" unicode="&#x6f1;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F2" unicode="&#x6f2;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F3" unicode="&#x6f3;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F4" unicode="&#x6f4;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F5" unicode="&#x6f5;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F6" unicode="&#x6f6;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F7" unicode="&#x6f7;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F8" unicode="&#x6f8;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F9" unicode="&#x6f9;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni200C" unicode="&#x200c;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="endash" unicode="&#x2013;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="emdash" unicode="&#x2014;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="quoteleft" unicode="&#x2018;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="quoteright" unicode="&#x2019;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="quotesinglbase" unicode="&#x201a;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="quotedblleft" unicode="&#x201c;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="quotedblright" unicode="&#x201d;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="quotedblbase" unicode="&#x201e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="dagger" unicode="&#x2020;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="daggerdbl" unicode="&#x2021;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="bullet" unicode="&#x2022;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="ellipsis" unicode="&#x2026;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="perthousand" unicode="&#x2030;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="guilsinglleft" unicode="&#x2039;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="guilsinglright" unicode="&#x203a;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="Euro" unicode="&#x20ac;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="trademark" unicode="&#x2122;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni25CC" unicode="&#x25cc;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFD3E" unicode="&#xfd3e;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uniFD3F" unicode="&#xfd3f;" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph468" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph472" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph473" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph475" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph476" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph477" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph478" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph479" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph482" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph483" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph484" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph485" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph486" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph487" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph490" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph491" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph492" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni06F4.locl" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0667.locl" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph495" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064B_uni0651.ccmp" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064B_uni0654.ccmp" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064E_uni0654.ccmp" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064C_uni0654.ccmp" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064F_uni0654.ccmp" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0652_uni0654.ccmp" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni064D_uni0655.ccmp" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="uni0650_uni0655.ccmp" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph507" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph508" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph509" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+    <glyph glyph-name="glyph510" 
+d="M616 718q0 -104 -75 -179t-179 -75q-102 0 -179 74q-74 77 -74 180q0 104 75 178.5t178 74.5q104 0 179 -74.5t75 -178.5z" />
+  </font>
+</defs></svg>

@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApplicationCore\Common\Farsica.Template.Common.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\ApplicationCore\Entity\Farsica.Template.Entity.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\ApplicationCore\Resource\Farsica.Template.Resource.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\ApplicationCore\Shared\Farsica.Template.Shared.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\DomainService\Farsica.Template.DomainService.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure\Farsica.Template.Infrastructure.csproj">
+      <Private>false</Private>
+    </ProjectReference>
+  </ItemGroup>
+
+</Project>

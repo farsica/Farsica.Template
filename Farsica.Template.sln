@@ -1,0 +1,124 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.UI.Web", "Presentation\UI\Farsica.Template.UI.Web.csproj", "{5CB02465-1B20-4128-8CDE-A6B3CE12B0D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{89190B69-880D-4273-B811-25EBCFBFFF85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationCore", "ApplicationCore", "{7303A5DB-BAD6-4320-B2F1-9E6EABE6FE20}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainService", "DomainService", "{520CA015-F343-4C07-BA32-D09CBFBE366D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{AA714158-17A4-43D9-8D15-885C1D0C7ACC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Common", "ApplicationCore\Common\Farsica.Template.Common.csproj", "{3AA8E912-FE33-4303-97D0-83AE02B58644}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Entity", "ApplicationCore\Entity\Farsica.Template.Entity.csproj", "{5CD74778-4454-4F6F-8E19-D7668ED25FAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Resource", "ApplicationCore\Resource\Farsica.Template.Resource.csproj", "{E7AD1555-0DB4-4896-995F-107C52AEB742}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.DomainService", "DomainService\Farsica.Template.DomainService.csproj", "{FBF31916-48C3-45EC-ABD3-8C36366F1D7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Infrastructure", "Infrastructure\Farsica.Template.Infrastructure.csproj", "{16126596-5AE1-4454-9A42-789A8647FCD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Shared", "ApplicationCore\Shared\Farsica.Template.Shared.csproj", "{3A0B956D-6763-44DD-836E-3A519BD7C634}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4912668F-DA83-457A-AC18-61F7532F099C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build", "Build\Build.csproj", "{7258E40E-5C44-4112-B219-9264B92DEFC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CB02465-1B20-4128-8CDE-A6B3CE12B0D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB02465-1B20-4128-8CDE-A6B3CE12B0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB02465-1B20-4128-8CDE-A6B3CE12B0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB02465-1B20-4128-8CDE-A6B3CE12B0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA8E912-FE33-4303-97D0-83AE02B58644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA8E912-FE33-4303-97D0-83AE02B58644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA8E912-FE33-4303-97D0-83AE02B58644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA8E912-FE33-4303-97D0-83AE02B58644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD74778-4454-4F6F-8E19-D7668ED25FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD74778-4454-4F6F-8E19-D7668ED25FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD74778-4454-4F6F-8E19-D7668ED25FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD74778-4454-4F6F-8E19-D7668ED25FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AD1555-0DB4-4896-995F-107C52AEB742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AD1555-0DB4-4896-995F-107C52AEB742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AD1555-0DB4-4896-995F-107C52AEB742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AD1555-0DB4-4896-995F-107C52AEB742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF31916-48C3-45EC-ABD3-8C36366F1D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF31916-48C3-45EC-ABD3-8C36366F1D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF31916-48C3-45EC-ABD3-8C36366F1D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF31916-48C3-45EC-ABD3-8C36366F1D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16126596-5AE1-4454-9A42-789A8647FCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16126596-5AE1-4454-9A42-789A8647FCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16126596-5AE1-4454-9A42-789A8647FCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16126596-5AE1-4454-9A42-789A8647FCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0B956D-6763-44DD-836E-3A519BD7C634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0B956D-6763-44DD-836E-3A519BD7C634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0B956D-6763-44DD-836E-3A519BD7C634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0B956D-6763-44DD-836E-3A519BD7C634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7258E40E-5C44-4112-B219-9264B92DEFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7258E40E-5C44-4112-B219-9264B92DEFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7258E40E-5C44-4112-B219-9264B92DEFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7258E40E-5C44-4112-B219-9264B92DEFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5CB02465-1B20-4128-8CDE-A6B3CE12B0D5} = {89190B69-880D-4273-B811-25EBCFBFFF85}
+		{3AA8E912-FE33-4303-97D0-83AE02B58644} = {7303A5DB-BAD6-4320-B2F1-9E6EABE6FE20}
+		{5CD74778-4454-4F6F-8E19-D7668ED25FAF} = {7303A5DB-BAD6-4320-B2F1-9E6EABE6FE20}
+		{E7AD1555-0DB4-4896-995F-107C52AEB742} = {7303A5DB-BAD6-4320-B2F1-9E6EABE6FE20}
+		{FBF31916-48C3-45EC-ABD3-8C36366F1D7D} = {520CA015-F343-4C07-BA32-D09CBFBE366D}
+		{16126596-5AE1-4454-9A42-789A8647FCD2} = {AA714158-17A4-43D9-8D15-885C1D0C7ACC}
+		{3A0B956D-6763-44DD-836E-3A519BD7C634} = {7303A5DB-BAD6-4320-B2F1-9E6EABE6FE20}
+		{7258E40E-5C44-4112-B219-9264B92DEFC0} = {4912668F-DA83-457A-AC18-61F7532F099C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A60B5C8-7E5E-4CFF-A767-595CDB04DE71}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Presentation\\UI\\Farsica.Template.UI.Web.csproj
+		SccProjectTopLevelParentUniqueName1 = Farsica.Template.sln
+		SccProjectName1 = Presentation/UI
+		SccLocalPath1 = Presentation\\UI
+		SccProjectUniqueName2 = ApplicationCore\\Common\\Farsica.Template.Common.csproj
+		SccProjectTopLevelParentUniqueName2 = Farsica.Template.sln
+		SccProjectName2 = ApplicationCore/Common
+		SccLocalPath2 = ApplicationCore\\Common
+		SccProjectUniqueName3 = ApplicationCore\\Entity\\Farsica.Template.Entity.csproj
+		SccProjectTopLevelParentUniqueName3 = Farsica.Template.sln
+		SccProjectName3 = ApplicationCore/Entity
+		SccLocalPath3 = ApplicationCore\\Entity
+		SccProjectUniqueName4 = ApplicationCore\\Resource\\Farsica.Template.Resource.csproj
+		SccProjectTopLevelParentUniqueName4 = Farsica.Template.sln
+		SccProjectName4 = ApplicationCore/Resource
+		SccLocalPath4 = ApplicationCore\\Resource
+		SccProjectUniqueName5 = DomainService\\DomainService\\Farsica.Template.DomainService.csproj
+		SccProjectTopLevelParentUniqueName5 = Farsica.Template.sln
+		SccProjectName5 = DomainService/DomainService
+		SccLocalPath5 = DomainService\\DomainService
+		SccProjectUniqueName6 = Infrastructure\\Infrastructure\\Farsica.Template.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName6 = Farsica.Template.sln
+		SccProjectName6 = Infrastructure/Infrastructure
+		SccLocalPath6 = Infrastructure\\Infrastructure
+		SccProjectUniqueName7 = ApplicationCore\\Shared\\Farsica.Template.Shared.csproj
+		SccProjectTopLevelParentUniqueName7 = Farsica.Template.sln
+		SccProjectName7 = ApplicationCore/Shared
+		SccLocalPath7 = ApplicationCore\\Shared
+		SccProjectUniqueName8 = Build\\Build.csproj
+		SccProjectTopLevelParentUniqueName8 = Farsica.Template.sln
+		SccProjectName8 = Build
+		SccLocalPath8 = Build
+	EndGlobalSection
+EndGlobal
