@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.UI.Web", "Presentation\UI\Farsica.Template.UI.Web.csproj", "{5CB02465-1B20-4128-8CDE-A6B3CE12B0D5}"
 EndProject
@@ -28,6 +28,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4912668F-DA83-457A-AC18-61F7532F099C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build", "Build\Build.csproj", "{7258E40E-5C44-4112-B219-9264B92DEFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsica.Template.Test", "Test\Farsica.Template.Test\Farsica.Template.Test.csproj", "{94FEFE6C-369C-4CF9-B277-A4EAE4B883AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E7605398-7B1F-4D0E-A3E9-019430EBD4B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +71,10 @@ Global
 		{7258E40E-5C44-4112-B219-9264B92DEFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7258E40E-5C44-4112-B219-9264B92DEFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7258E40E-5C44-4112-B219-9264B92DEFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FEFE6C-369C-4CF9-B277-A4EAE4B883AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FEFE6C-369C-4CF9-B277-A4EAE4B883AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FEFE6C-369C-4CF9-B277-A4EAE4B883AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FEFE6C-369C-4CF9-B277-A4EAE4B883AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,45 +88,9 @@ Global
 		{16126596-5AE1-4454-9A42-789A8647FCD2} = {AA714158-17A4-43D9-8D15-885C1D0C7ACC}
 		{3A0B956D-6763-44DD-836E-3A519BD7C634} = {7303A5DB-BAD6-4320-B2F1-9E6EABE6FE20}
 		{7258E40E-5C44-4112-B219-9264B92DEFC0} = {4912668F-DA83-457A-AC18-61F7532F099C}
+		{94FEFE6C-369C-4CF9-B277-A4EAE4B883AC} = {E7605398-7B1F-4D0E-A3E9-019430EBD4B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2A60B5C8-7E5E-4CFF-A767-595CDB04DE71}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 9
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Presentation\\UI\\Farsica.Template.UI.Web.csproj
-		SccProjectTopLevelParentUniqueName1 = Farsica.Template.sln
-		SccProjectName1 = Presentation/UI
-		SccLocalPath1 = Presentation\\UI
-		SccProjectUniqueName2 = ApplicationCore\\Common\\Farsica.Template.Common.csproj
-		SccProjectTopLevelParentUniqueName2 = Farsica.Template.sln
-		SccProjectName2 = ApplicationCore/Common
-		SccLocalPath2 = ApplicationCore\\Common
-		SccProjectUniqueName3 = ApplicationCore\\Entity\\Farsica.Template.Entity.csproj
-		SccProjectTopLevelParentUniqueName3 = Farsica.Template.sln
-		SccProjectName3 = ApplicationCore/Entity
-		SccLocalPath3 = ApplicationCore\\Entity
-		SccProjectUniqueName4 = ApplicationCore\\Resource\\Farsica.Template.Resource.csproj
-		SccProjectTopLevelParentUniqueName4 = Farsica.Template.sln
-		SccProjectName4 = ApplicationCore/Resource
-		SccLocalPath4 = ApplicationCore\\Resource
-		SccProjectUniqueName5 = DomainService\\DomainService\\Farsica.Template.DomainService.csproj
-		SccProjectTopLevelParentUniqueName5 = Farsica.Template.sln
-		SccProjectName5 = DomainService/DomainService
-		SccLocalPath5 = DomainService\\DomainService
-		SccProjectUniqueName6 = Infrastructure\\Infrastructure\\Farsica.Template.Infrastructure.csproj
-		SccProjectTopLevelParentUniqueName6 = Farsica.Template.sln
-		SccProjectName6 = Infrastructure/Infrastructure
-		SccLocalPath6 = Infrastructure\\Infrastructure
-		SccProjectUniqueName7 = ApplicationCore\\Shared\\Farsica.Template.Shared.csproj
-		SccProjectTopLevelParentUniqueName7 = Farsica.Template.sln
-		SccProjectName7 = ApplicationCore/Shared
-		SccLocalPath7 = ApplicationCore\\Shared
-		SccProjectUniqueName8 = Build\\Build.csproj
-		SccProjectTopLevelParentUniqueName8 = Farsica.Template.sln
-		SccProjectName8 = Build
-		SccLocalPath8 = Build
 	EndGlobalSection
 EndGlobal
