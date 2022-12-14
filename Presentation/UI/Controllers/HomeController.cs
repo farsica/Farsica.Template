@@ -5,15 +5,17 @@ using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Identity;
 using Farsica.Template.Entity.Entities.Identity;
 using Microsoft.Extensions.Localization;
+using Farsica.Template.UI.Web.Api;
+using System;
 
 namespace Farsica.Template.UI.Web.Controllers
 {
     public class HomeController : Farsica.Framework.Core.ControllerBase<HomeController, ApplicationUser>
     {
-        private readonly IUserService userService;
-        private readonly SignInManager<ApplicationUser> signInManager;
+        private readonly Lazy<IUserService> userService;
+        private readonly Lazy<SignInManager<ApplicationUser>> signInManager;
 
-        public HomeController(UserManager<ApplicationUser> userManager, ILogger<HomeController> logger, IStringLocalizer<HomeController> localizer, IUserService userService, SignInManager<ApplicationUser> signInManager)
+        public HomeController(Lazy<UserManager<ApplicationUser>> userManager, Lazy<ILogger<HomeController>> logger, Lazy<IStringLocalizer<HomeController>> localizer, Lazy<IUserService> userService, Lazy<SignInManager<ApplicationUser>> signInManager)
             : base(userManager, logger, localizer)
         {
             this.userService = userService;

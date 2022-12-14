@@ -7,6 +7,6 @@ namespace Farsica.Template.Shared.Service
     [Injectable]
     public interface IUserService
     {
-        Task<IList> GetUsers();
+        Task<Framework.Data.ResultData<IEnumerable>> GetUsers();
     }
 }

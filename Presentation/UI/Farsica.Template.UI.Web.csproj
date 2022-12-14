@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -32,8 +32,8 @@
   </ItemGroup>
 
   <ItemGroup>
-	<PackageReference Include="Farsica.Framework" Version="1.5.1" />
-    <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+	<PackageReference Include="Farsica.Framework" Version="1.6.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
   </ItemGroup>
 
   <ItemGroup>
