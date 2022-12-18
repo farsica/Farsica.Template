@@ -12,12 +12,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="BindingModels\" />
     <Folder Include="ValueObjects\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Farsica.Framework" Version="1.6.2" />
+    <PackageReference Include="Farsica.Framework" Version="1.6.5" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.1" />
   </ItemGroup>
 

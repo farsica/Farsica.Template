@@ -1,7 +1,7 @@
 ﻿namespace Farsica.Template.Common
 {
-    public static class Globals
-    {
-        
-    }
+	public static class Globals
+	{
+
+	}
 }

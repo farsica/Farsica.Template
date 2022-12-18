@@ -1,44 +1,45 @@
-﻿using Farsica.Framework.Data;
-using Farsica.Framework.DataAccess.Entities;
-using Farsica.Framework.DataAnnotation;
-using Farsica.Framework.DataAnnotation.Schema;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Builders;
-
-namespace Farsica.Template.Entity.Entities.Identity
+﻿namespace Farsica.Template.Entity.Entities.Identity
 {
-    //[Table(nameof(ApplicationUserRole))]
-    [Table("UserRole")]
-    public class ApplicationUserRole : IdentityUserRole<int>, IEntity<ApplicationUserRole, int>
-    {
-        [Required]
-        [Column(nameof(UserId), DataType.Int)]
-        public override int UserId { get; set; }
+	using Farsica.Framework.Data;
+	using Farsica.Framework.DataAccess.Entities;
+	using Farsica.Framework.DataAnnotation;
+	using Farsica.Framework.DataAnnotation.Schema;
+	using Microsoft.AspNetCore.Identity;
+	using Microsoft.EntityFrameworkCore;
+	using Microsoft.EntityFrameworkCore.Metadata.Builders;
+	using System.Diagnostics.CodeAnalysis;
 
-        [Required]
-        [Column(nameof(RoleId), DataType.Int)]
-        public override int RoleId { get; set; }
+	[Table(nameof(ApplicationUserRole))]
+	public class ApplicationUserRole : IdentityUserRole<long>, IEntity<ApplicationUserRole, long>
+	{
+		[Required]
+		[Column(nameof(UserId), DataType.Long)]
+		public override long UserId { get; set; }
 
-        public virtual ApplicationRole Role { get; set; }
+		[Required]
+		[Column(nameof(RoleId), DataType.Int)]
+		public override long RoleId { get; set; }
 
-        public virtual ApplicationUser User { get; set; }
+		public virtual ApplicationRole Role { get; set; }
 
-        int IEntity<ApplicationUserRole, int>.Id { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
-        public void Configure(EntityTypeBuilder<ApplicationUserRole> builder)
-        {
-            builder.HasKey(t => new { t.UserId, t.RoleId });
+		public virtual ApplicationUser User { get; set; }
 
-            builder.HasIndex(t => t.RoleId)
-                .HasDatabaseName(DbProviderFactories.GetFactory.GetObjectName($"IX_{nameof(ApplicationUserRole)}_{nameof(RoleId)}"));
+		long IEntity<ApplicationUserRole, long>.Id { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
 
-            builder.HasOne(t => t.Role)
-                .WithMany(t => t.UserRoles)
-                .HasForeignKey(t => t.RoleId);
+		public void Configure([NotNull] EntityTypeBuilder<ApplicationUserRole> builder)
+		{
+			_ = builder.HasKey(t => new { t.UserId, t.RoleId });
 
-            builder.HasOne(t => t.User)
-                .WithMany(t => t.UserRoles)
-                .HasForeignKey(t => t.UserId);
-        }
-    }
+			_ = builder.HasIndex(t => t.RoleId)
+				.HasDatabaseName(DbProviderFactories.GetFactory.GetObjectName($"IX_{nameof(ApplicationUserRole)}_{nameof(RoleId)}"));
+
+			_ = builder.HasOne(t => t.Role)
+				.WithMany(t => t.UserRoles)
+				.HasForeignKey(t => t.RoleId);
+
+			_ = builder.HasOne(t => t.User)
+				.WithMany(t => t.UserRoles)
+				.HasForeignKey(t => t.UserId);
+		}
+	}
 }

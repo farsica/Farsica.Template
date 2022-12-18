@@ -26,10 +26,13 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Shared", "ApplicationCore\Shared\Farsica.Template.Shared.csproj", "{3A0B956D-6763-44DD-836E-3A519BD7C634}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4912668F-DA83-457A-AC18-61F7532F099C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build", "Build\Build.csproj", "{7258E40E-5C44-4112-B219-9264B92DEFC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farsica.Template.Test", "Test\Farsica.Template.Test\Farsica.Template.Test.csproj", "{94FEFE6C-369C-4CF9-B277-A4EAE4B883AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Test", "Test\Farsica.Template.Test.csproj", "{94FEFE6C-369C-4CF9-B277-A4EAE4B883AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E7605398-7B1F-4D0E-A3E9-019430EBD4B3}"
 EndProject

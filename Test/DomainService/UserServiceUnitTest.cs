@@ -1,7 +1,7 @@
-using Farsica.Template.Shared.Service;
-
 namespace Farsica.Template.Test.DomainService
 {
+	using Farsica.Template.Shared.Service;
+
 	public class UserServiceUnitTest
 	{
 		private readonly IUserService userService;
