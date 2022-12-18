@@ -1,7 +1,6 @@
 ﻿namespace Farsica.Template.UI.Web.Controllers
 {
 	using Farsica.Template.Entity.Entities.Identity;
-	using Farsica.Template.Shared.Service;
 	using Microsoft.AspNetCore.Identity;
 	using Microsoft.AspNetCore.Mvc;
 	using Microsoft.Extensions.Localization;

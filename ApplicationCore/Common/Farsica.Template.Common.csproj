@@ -11,4 +11,8 @@
     <TargetFramework>net7.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Util\" />
+  </ItemGroup>
+
 </Project>
