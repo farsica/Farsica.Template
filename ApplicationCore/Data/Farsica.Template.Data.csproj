@@ -12,9 +12,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="BindingModels\" />
-    <Folder Include="ValueObjects\" />
-    <Folder Include="ViewModels\" />
+    <Folder Include="BindingModel\" />
+    <Folder Include="ValueObject\" />
+    <Folder Include="ViewModel\" />
   </ItemGroup>
 
   <ItemGroup>

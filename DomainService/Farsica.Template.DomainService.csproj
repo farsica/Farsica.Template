@@ -25,7 +25,7 @@
   
   <ItemGroup>
     <ProjectReference Include="..\ApplicationCore\Common\Farsica.Template.Common.csproj" />
-    <ProjectReference Include="..\ApplicationCore\Entity\Farsica.Template.Entity.csproj" />
+    <ProjectReference Include="..\ApplicationCore\Data\Farsica.Template.Data.csproj" />
     <ProjectReference Include="..\ApplicationCore\Resource\Farsica.Template.Resource.csproj" />
     <ProjectReference Include="..\ApplicationCore\Shared\Farsica.Template.Shared.csproj" />
   </ItemGroup>

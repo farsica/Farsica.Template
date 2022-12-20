@@ -1,7 +1,7 @@
 ﻿namespace Farsica.Template.Infrastructure.EntityFramework.Context
 {
 	using Farsica.Framework.DataAnnotation;
-	using Farsica.Template.Entity.Entities.Identity;
+	using Farsica.Template.Data.Entity.Identity;
 	using Farsica.Template.Shared.Infrastructure.DbContext;
 	using Microsoft.EntityFrameworkCore;
 	using Microsoft.Extensions.DependencyInjection;

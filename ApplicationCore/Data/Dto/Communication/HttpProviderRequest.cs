@@ -1,4 +1,4 @@
-﻿namespace Farsica.Template.Entity.DTOs.Communication
+﻿namespace Farsica.Template.Data.Dto.Communication
 {
 	using System.Collections.Generic;
 

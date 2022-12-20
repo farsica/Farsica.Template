@@ -1,6 +1,6 @@
 namespace Farsica.Template
 {
-	using Farsica.Template.Entity.Entities.Identity;
+	using Farsica.Template.Data.Entity.Identity;
 
 	using System.Threading.Tasks;
 

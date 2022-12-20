@@ -1,4 +1,4 @@
-﻿namespace Farsica.Template.Entity.Entities.Identity
+﻿namespace Farsica.Template.Data.Entity.Identity
 {
 	using Farsica.Framework.Data;
 	using Farsica.Framework.DataAccess.Entities;

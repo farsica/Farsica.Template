@@ -15,7 +15,7 @@
     <ProjectReference Include="..\ApplicationCore\Common\Farsica.Template.Common.csproj">
       <Private>false</Private>
     </ProjectReference>
-    <ProjectReference Include="..\ApplicationCore\Entity\Farsica.Template.Entity.csproj">
+    <ProjectReference Include="..\ApplicationCore\Data\Farsica.Template.Data.csproj">
       <Private>false</Private>
     </ProjectReference>
     <ProjectReference Include="..\ApplicationCore\Resource\Farsica.Template.Resource.csproj">

@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Common", "ApplicationCore\Common\Farsica.Template.Common.csproj", "{3AA8E912-FE33-4303-97D0-83AE02B58644}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Entity", "ApplicationCore\Entity\Farsica.Template.Entity.csproj", "{5CD74778-4454-4F6F-8E19-D7668ED25FAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Data", "ApplicationCore\Data\Farsica.Template.Data.csproj", "{5CD74778-4454-4F6F-8E19-D7668ED25FAF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farsica.Template.Resource", "ApplicationCore\Resource\Farsica.Template.Resource.csproj", "{E7AD1555-0DB4-4896-995F-107C52AEB742}"
 EndProject

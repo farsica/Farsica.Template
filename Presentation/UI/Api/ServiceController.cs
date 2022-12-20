@@ -1,6 +1,6 @@
 ﻿namespace Farsica.Template.UI.Web.Api
 {
-	using Farsica.Template.Entity.Entities.Identity;
+	using Farsica.Template.Data.Entity.Identity;
 	using Mapster;
 	using Microsoft.AspNetCore.Identity;
 	using Microsoft.Extensions.Localization;

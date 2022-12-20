@@ -1,7 +1,7 @@
 ﻿namespace Farsica.Template.Infrastructure.Communication
 {
 	using Farsica.Framework.Core;
-	using Farsica.Template.Entity.DTOs.Communication;
+	using Farsica.Template.Data.Dto.Communication;
 	using Farsica.Template.Shared.Infrastructure.Communication;
 	using Microsoft.Extensions.Logging;
 	using System;

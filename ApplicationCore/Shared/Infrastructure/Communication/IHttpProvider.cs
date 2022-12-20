@@ -1,6 +1,6 @@
 ﻿namespace Farsica.Template.Shared.Infrastructure.Communication
 {
-	using Farsica.Template.Entity.DTOs.Communication;
+	using Farsica.Template.Data.Dto.Communication;
 	using Farsica.Framework.DataAnnotation;
 	using System.Threading.Tasks;
 

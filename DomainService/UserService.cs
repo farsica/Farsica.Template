@@ -4,7 +4,7 @@
 	using Farsica.Framework.DataAccess.UnitOfWork;
 	using Farsica.Framework.Mapping;
 	using Farsica.Framework.Service;
-	using Farsica.Template.Entity.Entities.Identity;
+	using Farsica.Template.Data.Entity.Identity;
 	using Farsica.Template.Shared.Service;
 	using Microsoft.AspNetCore.Http;
 	using Microsoft.EntityFrameworkCore;
