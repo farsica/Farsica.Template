@@ -20,6 +20,8 @@
 
 		protected override Assembly EntityAssembly => typeof(ApplicationUser).Assembly;
 
+		protected override bool EnableAudit => false;
+
 		protected override void OnConfiguring([NotNull] DbContextOptionsBuilder optionsBuilder)
 		{
 			_ = optionsBuilder.EnableSensitiveDataLogging(SensitiveDataLoggingEnabled)

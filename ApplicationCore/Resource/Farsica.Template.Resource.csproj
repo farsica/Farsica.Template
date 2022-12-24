@@ -29,4 +29,12 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DomainService\" />
+    <Folder Include="Data\" />
+    <Folder Include="Infrastructure\Communication\" />
+    <Folder Include="Infrastructure\Provider\" />
+    <Folder Include="UI\Web\" />
+  </ItemGroup>
+
 </Project>

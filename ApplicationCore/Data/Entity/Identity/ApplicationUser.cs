@@ -102,7 +102,7 @@
 			_ = builder.HasIndex(e => e.NormalizedUserName)
 				.HasDatabaseName(factory.GetObjectName($"IX_{nameof(ApplicationUser)}_{nameof(NormalizedUserName)}"))
 				.IsUnique()
-				.HasFilter($"([{factory.GetObjectName(nameof(NormalizedUserName))}] IS NOT NULL)");
+				.HasFilter($"([{factory.GetObjectName(nameof(NormalizedUserName), pluralize: false)}] IS NOT NULL)");
 		}
 	}
 }

@@ -17,7 +17,7 @@
 		public override long UserId { get; set; }
 
 		[Required]
-		[Column(nameof(RoleId), DataType.Int)]
+		[Column(nameof(RoleId), DataType.Long)]
 		public override long RoleId { get; set; }
 
 		public virtual ApplicationRole Role { get; set; }

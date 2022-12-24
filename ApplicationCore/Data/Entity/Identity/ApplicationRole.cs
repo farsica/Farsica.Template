@@ -46,7 +46,7 @@
 			_ = builder.HasIndex(t => t.NormalizedName)
 				.HasDatabaseName(DbProviderFactories.GetFactory.GetObjectName($"IX_{nameof(ApplicationRole)}_{nameof(NormalizedName)}"))
 				.IsUnique()
-				.HasFilter($"([{DbProviderFactories.GetFactory.GetObjectName(nameof(NormalizedName))}] IS NOT NULL)");
+				.HasFilter($"([{DbProviderFactories.GetFactory.GetObjectName(nameof(NormalizedName), pluralize: false)}] IS NOT NULL)");
 		}
 	}
 }
