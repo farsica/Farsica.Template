@@ -13,13 +13,14 @@
 
   <ItemGroup>
     <Folder Include="BindingModel\" />
+    <Folder Include="Enumeration\" />
     <Folder Include="ValueObject\" />
     <Folder Include="ViewModel\" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Farsica.Framework" Version="1.6.6" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.1" />
+    <PackageReference Include="Farsica.Framework" Version="2.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.2" />
   </ItemGroup>
 
   <ItemGroup>
