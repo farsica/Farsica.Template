@@ -1,28 +1,10 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup Label="Globals">
-    <SccProjectName>SAK</SccProjectName>
-    <SccProvider>SAK</SccProvider>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccLocalPath>SAK</SccLocalPath>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <OutputType>Library</OutputType>
-    <TargetFramework>net7.0</TargetFramework>
-    <ApplicationIcon />
-    <StartupObject />
-  </PropertyGroup>
+<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
     <AssemblyAttribute Include="Farsica.Framework.DataAnnotation.InjectableAttribute">
     </AssemblyAttribute>
   </ItemGroup>
 
-  <ItemGroup>
-	<PackageReference Include="Farsica.Framework" Version="2.0.8" />
-  </ItemGroup>
-  
   <ItemGroup>
     <ProjectReference Include="..\Common\Farsica.Template.Common.csproj" />
     <ProjectReference Include="..\Data\Farsica.Template.Data.csproj" />

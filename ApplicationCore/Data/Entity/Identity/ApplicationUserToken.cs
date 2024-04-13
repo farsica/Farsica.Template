@@ -1,45 +1,49 @@
 ﻿namespace Farsica.Template.Data.Entity.Identity
 {
-	using Farsica.Framework.Data;
-	using Farsica.Framework.DataAccess.Entities;
-	using Farsica.Framework.DataAnnotation;
-	using Farsica.Framework.DataAnnotation.Schema;
-	using Microsoft.AspNetCore.Identity;
-	using Microsoft.EntityFrameworkCore.Metadata.Builders;
-	using System.Diagnostics.CodeAnalysis;
+    using Farsica.Framework.Data;
+    using Farsica.Framework.DataAccess.Entities;
+    using Farsica.Framework.DataAnnotation;
+    using Farsica.Framework.DataAnnotation.Schema;
 
-	[Table(nameof(ApplicationUserToken))]
-	public class ApplicationUserToken : IdentityUserToken<long>, IEntity<ApplicationUserToken, long>
-	{
-		[Required]
-		[Column(nameof(UserId), DataType.Long)]
-		public override long UserId { get; set; }
+    using Microsoft.AspNetCore.Identity;
+    using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-		[StringLength(128)]
-		[Required]
-		[Column(nameof(LoginProvider), DataType.UnicodeString)]
-		public override string LoginProvider { get; set; }
+    using System.Diagnostics.CodeAnalysis;
 
-		[StringLength(128)]
-		[Required]
-		[Column(nameof(Name), DataType.UnicodeString)]
-		public override string Name { get; set; }
+    [Table(nameof(ApplicationUserToken))]
+    public class ApplicationUserToken : IdentityUserToken<int>, IEntity<ApplicationUserToken, int>
+    {
+        [Required]
+        [Column(nameof(UserId), DataType.Int)]
+        public override int UserId { get; set; }
 
-		[StringLength(2500)]
-		[Column(nameof(Value), DataType.UnicodeString)]
-		public override string Value { get; set; }
+#pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
+        [Column(nameof(LoginProvider), DataType.UnicodeString)]
+        [StringLength(128)]
+        [Required]
+        public override string LoginProvider { get; set; }
 
-		public virtual ApplicationUser User { get; set; }
+        [Column(nameof(Name), DataType.UnicodeString)]
+        [StringLength(128)]
+        [Required]
+        public override string Name { get; set; }
+#pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
 
-		long IEntity<ApplicationUserToken, long>.Id { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+        [Column(nameof(Value), DataType.UnicodeString)]
+        [StringLength(2500)]
+        public override string? Value { get; set; }
 
-		public void Configure([NotNull] EntityTypeBuilder<ApplicationUserToken> builder)
-		{
-			_ = builder.HasKey(t => new { t.UserId, t.LoginProvider, t.Name });
+        public ApplicationUser? User { get; set; }
 
-			_ = builder.HasOne(t => t.User)
-				.WithMany(t => t.UserTokens)
-				.HasForeignKey(t => t.UserId);
-		}
-	}
+        int IIdentifiable<ApplicationUserToken, int>.Id { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        public void Configure([NotNull] EntityTypeBuilder<ApplicationUserToken> builder)
+        {
+            _ = builder.HasKey(t => new { t.UserId, t.LoginProvider, t.Name });
+
+            _ = builder.HasOne(t => t.User)
+                .WithMany(t => t.UserTokens)
+                .HasForeignKey(t => t.UserId);
+        }
+    }
 }

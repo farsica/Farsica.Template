@@ -1,7 +1,8 @@
-﻿namespace Farsica.Template.Common
+namespace Farsica.Template.Common
 {
-	public static class Globals
-	{
-
-	}
+#pragma warning disable S2094 // Classes should not be empty
+    public static class Globals
+#pragma warning restore S2094 // Classes should not be empty
+    {
+    }
 }

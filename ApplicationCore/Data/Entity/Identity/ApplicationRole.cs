@@ -1,52 +1,64 @@
 ﻿namespace Farsica.Template.Data.Entity.Identity
 {
-	using System.Collections.Generic;
-	using System.Diagnostics.CodeAnalysis;
-	using Farsica.Framework.Data;
-	using Farsica.Framework.DataAccess.Entities;
-	using Farsica.Framework.DataAnnotation;
-	using Farsica.Framework.DataAnnotation.Schema;
-	using Microsoft.AspNetCore.Identity;
-	using Microsoft.EntityFrameworkCore;
-	using Microsoft.EntityFrameworkCore.Metadata.Builders;
+    using System.Collections.Generic;
+    using System.Diagnostics.CodeAnalysis;
 
-	[Table(nameof(ApplicationRole))]
-	public class ApplicationRole : IdentityRole<long>, IEntity<ApplicationRole, long>
-	{
-		public ApplicationRole()
-		{
-			UserRoles = new List<ApplicationUserRole>();
-			RoleClaims = new List<ApplicationRoleClaim>();
-		}
+    using Farsica.Template.Data.Enumeration;
 
-		[System.ComponentModel.DataAnnotations.Key]
-		[Column(nameof(Id), DataType.Long)]
-		[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-		public override long Id { get; set; }
+    using Farsica.Framework.Data;
+    using Farsica.Framework.DataAccess.Entities;
+    using Farsica.Framework.DataAnnotation;
+    using Farsica.Framework.DataAnnotation.Schema;
 
-		[StringLength(256)]
-		[Column(nameof(Name), DataType.UnicodeString)]
-		[Required]
-		public override string Name { get; set; }
+    using Microsoft.AspNetCore.Identity;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-		[Column(nameof(NormalizedName), DataType.UnicodeString)]
-		[StringLength(256)]
-		public override string NormalizedName { get; set; }
+    [Table(nameof(ApplicationRole))]
+    public class ApplicationRole : IdentityRole<int>, IEntity<ApplicationRole, int>
+    {
+        public ApplicationRole()
+        {
+            UserRoles = [];
+            RoleClaims = [];
+        }
 
-		[Column(nameof(ConcurrencyStamp), DataType.String)]
-		[StringLength(50)]
-		public override string ConcurrencyStamp { get; set; }
+        [System.ComponentModel.DataAnnotations.Key]
+        [Column(nameof(Id), DataType.Int)]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public override int Id { get; set; }
 
-		public virtual ICollection<ApplicationUserRole> UserRoles { get; set; }
+        [Column(nameof(Name), DataType.UnicodeString)]
+        [Required]
+        [StringLength(256)]
+        public override string? Name { get; set; }
 
-		public virtual ICollection<ApplicationRoleClaim> RoleClaims { get; set; }
+        [Column(nameof(NormalizedName), DataType.UnicodeString)]
+        [StringLength(256)]
+        [Required]
+        public override string? NormalizedName { get; set; }
 
-		public void Configure([NotNull] EntityTypeBuilder<ApplicationRole> builder)
-		{
-			_ = builder.HasIndex(t => t.NormalizedName)
-				.HasDatabaseName(DbProviderFactories.GetFactory.GetObjectName($"IX_{nameof(ApplicationRole)}_{nameof(NormalizedName)}"))
-				.IsUnique()
-				.HasFilter($"([{DbProviderFactories.GetFactory.GetObjectName(nameof(NormalizedName), pluralize: false)}] IS NOT NULL)");
-		}
-	}
+        [Column(nameof(ConcurrencyStamp), DataType.String)]
+        [Required]
+        [StringLength(50)]
+        public override string? ConcurrencyStamp { get; set; }
+
+        public ICollection<ApplicationUserRole> UserRoles { get; set; }
+
+        public ICollection<ApplicationRoleClaim> RoleClaims { get; set; }
+
+        public void Configure([NotNull] EntityTypeBuilder<ApplicationRole> builder)
+        {
+            _ = builder.HasIndex(t => t.NormalizedName)
+                .HasDatabaseName(DbProviderFactories.GetFactory.GetObjectName($"IX_{nameof(ApplicationRole)}_{nameof(NormalizedName)}"))
+                .IsUnique()
+                .HasFilter($"([{DbProviderFactories.GetFactory.GetObjectName(nameof(NormalizedName), pluralize: false)}] IS NOT NULL)");
+
+            List<ApplicationRole> seedData =
+            [
+                new ApplicationRole { Id = 1, Name = nameof(Role.Admin), NormalizedName = nameof(Role.Admin).ToUpperInvariant(), ConcurrencyStamp = "85465B3B-E646-49BC-AAC6-D07C450B3AE3", },
+            ];
+            _ = builder.HasData(seedData);
+        }
+    }
 }

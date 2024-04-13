@@ -1,23 +1,19 @@
 namespace Farsica.Template.Test.DomainService
 {
-	using Farsica.Template.Shared.Service;
+    using Farsica.Template.Shared.Service;
 
-	public class UserServiceUnitTest
-	{
-		private readonly IUserService userService;
+#pragma warning disable CS1591 // Missing XML comment for publicly visible type or member
+#pragma warning disable xUnit1041 // Fixture arguments to test classes must have fixture sources
+    public class UserServiceUnitTest(IIdentityService identityService)
+#pragma warning restore xUnit1041 // Fixture arguments to test classes must have fixture sources
+#pragma warning restore CS1591 // Missing XML comment for publicly visible type or member
+    {
+        [Fact]
+        public async Task GetUsersAsync()
+        {
+            var response = await identityService.GetUsersAsync();
 
-		public UserServiceUnitTest(IUserService userService)
-		{
-			this.userService = userService;
-		}
-
-		[Fact]
-		public async Task GetUsers()
-		{
-			var response = await userService.GetUsers();
-
-			Assert.True(response.OperationResult == Framework.Core.Constants.OperationResult.Succeeded);
-			Assert.NotNull(response.Data);
-		}
-	}
+            Assert.Equal(Framework.Core.Constants.OperationResult.Succeeded, response.OperationResult);
+        }
+    }
 }

@@ -1,11 +1,18 @@
-﻿
+
 namespace Farsica.Template.Common
 {
-	public static class Constants
-	{
-		public enum EntityType : byte
-		{
-			None
-		}
-	}
+    using System.Text.Json.Serialization;
+
+    using Farsica.Framework.Converter;
+
+    public static class Constants
+    {
+        [JsonConverter(typeof(EnumStringConverter<EntityType>))]
+        public enum EntityType
+        {
+            ApplicationSetting = 0,
+            ApplicationUser = 1,
+            ApplicationUserClaim = 2,
+        }
+    }
 }

@@ -1,18 +1,1 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup Label="Globals">
-    <SccProjectName>SAK</SccProjectName>
-    <SccProvider>SAK</SccProvider>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccLocalPath>SAK</SccLocalPath>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-  </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Util\" />
-  </ItemGroup>
-
-</Project>
+<Project Sdk="Microsoft.NET.Sdk" />

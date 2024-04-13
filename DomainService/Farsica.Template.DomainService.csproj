@@ -1,18 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup Label="Globals">
-    <SccProjectName>SAK</SccProjectName>
-    <SccProvider>SAK</SccProvider>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccLocalPath>SAK</SccLocalPath>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-    <Company>Farsica</Company>
-    <Authors>Fariborz Khosravi</Authors>
-  </PropertyGroup>
+<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
     <AssemblyAttribute Include="Farsica.Framework.DataAnnotation.InjectableAttribute">
@@ -20,14 +6,13 @@
   </ItemGroup>
 
   <ItemGroup>
-	<PackageReference Include="Farsica.Framework" Version="2.0.8" />
+    <PackageReference Include="EntityFrameworkCore.Exceptions.SqlServer" />
+    <PackageReference Include="Hangfire" />
   </ItemGroup>
-  
+
   <ItemGroup>
     <ProjectReference Include="..\ApplicationCore\Common\Farsica.Template.Common.csproj" />
     <ProjectReference Include="..\ApplicationCore\Data\Farsica.Template.Data.csproj" />
-    <ProjectReference Include="..\ApplicationCore\Resource\Farsica.Template.Resource.csproj" />
     <ProjectReference Include="..\ApplicationCore\Shared\Farsica.Template.Shared.csproj" />
   </ItemGroup>
-
 </Project>

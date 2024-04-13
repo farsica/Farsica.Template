@@ -1,26 +1,7 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup Label="Globals">
-    <SccProjectName>SAK</SccProjectName>
-    <SccProvider>SAK</SccProvider>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccLocalPath>SAK</SccLocalPath>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-  </PropertyGroup>
+<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <Folder Include="BindingModel\" />
-    <Folder Include="Enumeration\" />
-    <Folder Include="ValueObject\" />
-    <Folder Include="ViewModel\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Farsica.Framework" Version="2.0.8" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" />
   </ItemGroup>
 
   <ItemGroup>

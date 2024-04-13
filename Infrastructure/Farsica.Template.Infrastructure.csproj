@@ -1,16 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup Label="Globals">
-    <SccProjectName>SAK</SccProjectName>
-    <SccProvider>SAK</SccProvider>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccLocalPath>SAK</SccLocalPath>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-  </PropertyGroup>
+<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
     <AssemblyAttribute Include="Farsica.Framework.DataAnnotation.InjectableAttribute">
@@ -18,23 +6,25 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.2" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.2" />
-    <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
-    <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
-	<PackageReference Include="Farsica.Framework" Version="2.0.8" />
+    <PackageReference Include="EntityFrameworkCore.Exceptions.SqlServer" />
+    <PackageReference Include="MailKit" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" />
+    <PackageReference Include="Microsoft.Extensions.Http" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" />
+    <PackageReference Include="System.ServiceModel.Duplex" />
+    <PackageReference Include="System.ServiceModel.Federation" />
+    <PackageReference Include="System.ServiceModel.Http" />
+    <PackageReference Include="System.ServiceModel.NetTcp" />
+    <PackageReference Include="System.ServiceModel.Security" />
+    <PackageReference Include="Confluent.Kafka" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ApplicationCore\Common\Farsica.Template.Common.csproj" />
     <ProjectReference Include="..\ApplicationCore\Data\Farsica.Template.Data.csproj" />
-    <ProjectReference Include="..\ApplicationCore\Resource\Farsica.Template.Resource.csproj" />
     <ProjectReference Include="..\ApplicationCore\Shared\Farsica.Template.Shared.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Provider\" />
   </ItemGroup>
 
 </Project>
