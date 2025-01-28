@@ -1246,6 +1246,8 @@ csharp_style_var_for_built_in_types = true:error
 csharp_style_var_when_type_is_apparent = true:error
 csharp_style_var_elsewhere = true:error
 dotnet_diagnostic.IDE0301.severity = error
+csharp_prefer_system_threading_lock = true:suggestion
+dotnet_diagnostic.CA1515.severity = suggestion
 
 [*.{cs,vb}]
 dotnet_diagnostic.CA1308.severity = none
